@@ -5,7 +5,7 @@
   </a>
 </div>
                                                                                             
-<h4 align="left">I'm from Argentina and I'm a Frontend Developer.</h4>
+<h4 align="left">I'm a Frontend Developer from Argentina.</h4>
 
 <h5>My interests are about technologies like javascript and React.</h5>
 
