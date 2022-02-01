@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+                                                                                            
 <h4 align="left">I'm from Argentina and I'm a Frontend Developer.</h4>
 
 <h5>My interests are about technologies like javascript and React.</h5>
