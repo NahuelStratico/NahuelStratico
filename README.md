@@ -3,7 +3,7 @@
 
 <h5>My interests are about technologies like javascript and React.</h5>
 
-- 🔭 Currently working on [my portfolio](http://straticonahuel.com.ar/)
+- 🔭 Currently working on [Coderhouse](https://www.coderhouse.com/) like Tutor in Web developer course.
 
 - 🌱 I’m currently learning **NextJS** and **React Native**
 
