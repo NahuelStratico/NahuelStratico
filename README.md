@@ -26,8 +26,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+   <a href="https://developer.android.com/?hl=es-419" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Android_Logo_2014_-_2019.svg/2048px-Android_Logo_2014_-_2019.svg.png" alt="android" width="40" height="40"/> 
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/373728/kotlin.svg" alt="kotlin" width="40" height="40"/> 
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
